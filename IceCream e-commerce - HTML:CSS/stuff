@@ -1,0 +1,3 @@
+background-origin: border-box;
+    background: url(./images/top-paspartu.jpg) no-repeat top, url(./images/top-paspartu.jpg) no-repeat bottom, url(./images/side-paspartu.jpg) no-repeat left, url(./images/side-paspartu.jpg) no-repeat right;
+    
